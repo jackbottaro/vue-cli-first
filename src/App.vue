@@ -28,6 +28,7 @@ export default {
 h1 {
   margin-top: 50px;
   font-family: 'Permanent Marker', cursive;
+  color: #55498c;
 
 }
 
